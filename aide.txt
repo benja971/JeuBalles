@@ -1,0 +1,21 @@
+Informations complémentaires pour un bon déroulement de la partie:
+
+___Dans le menu___
+-<Space> lance le jeu
+-<Escape> ferme le jeu
+
+___En jeu___
+-<Return> met le jeu en pause
+-<Escape> ferme le jeu
+
+-Déplacement avec les flèches directionnelles(haut, bas, gauche, droite)
+
+-Vous commencez avec 10 vies
+-Toucher une balle bleue supprime toutes les balles présentes sur l'écran sans retirer de vie
+-Toucher une balle noire retire une vie
+-Toucher une tête de mort retire deux vies
+-A 0 vies, retour à l'écran d'acceuil
+
+___En pause___
+-<Space> relance le jeu
+-<Escape> ferme le jeu
